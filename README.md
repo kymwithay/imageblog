@@ -43,7 +43,7 @@ Describe any challenges encountered while building the app.
 
 **Tumblr** is a photo browsing app app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -73,6 +73,43 @@ Here's a walkthrough of implemented user stories:
 <img src='https://i.imgur.com/5KxsEbU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+# Lab 3 - *Tumblr*
+
+**Tumblr** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+
+Time spent: **3** hours spent in total
+
+## User Stories
+
+The following **required** user stories are complete:
+
+- The following screens use AutoLayout to adapt to various orientations and screen sizes
+   - [x] Movie feed view (+3pt)
+   - [x] Detail view (+2pt)
+
+The following **stretch** user stories are implemented:
+
+- [ ] Dynamic Height Cells (+1)
+- [x] Collection View AutoLayout (+2)
+
+The following **additional** user stories are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
+
+Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
+
+1.
+2.
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://firebasestorage.googleapis.com/v0/b/datasto-61f2f.appspot.com/o/FlixGif2.gif?alt=media&token=b3ed84c8-db8b-45b8-81d0-8f7dfd744f68' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 ## Notes
 
